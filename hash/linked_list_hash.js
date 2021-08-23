@@ -96,6 +96,7 @@ class HashTable {
   }
 }
 
+/*********************** TEST CASE ***********************/
 const ht = new HashTable();
 ht.set("JunMo", "Korea");
 ht.set("Kevin", "Canada");

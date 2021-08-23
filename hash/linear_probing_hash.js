@@ -67,6 +67,7 @@ class HashTable {
   }
 }
 
+/*********************** TEST CASE ***********************/
 let tmp = 0;
 let tmp2 = 0;
 
